@@ -1,0 +1,157 @@
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+a {
+  color: white;
+}
+
+.active {
+  color: red;
+}
+
+.navigation-bar {
+    width: 100%;  /* i'm assuming full width */
+    height: 100px; /* change it to desired width */
+    background-color: black; /* change to desired color */
+}
+.title{
+  color: red;
+  text-align: center;
+  width: 100%;
+}
+.logo {
+  border-radius: 50%;
+  padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 150px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+  float: right;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        /* if you want it to take the full height of the bar */
+    line-height: 80px;
+    
+    text-decoration: none;
+    padding: 10px;
+    padding-right: 30px;
+}
+.navigation-bar > a:hover {
+  text-decoration: underline;
+}
+#listeners-text{
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  left: 230px;
+  top: 90px;
+  color: #939393;
+}
+#listeners-number{
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  left: 230px;
+  top: 110px;
+  color: black;
+}
+
+#title-text{
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 45px;
+  font-weight: bold;
+  left: 880px;
+  top: -20px;
+  color: red;
+  font-family: 'Teko', sans-serif;
+}
+hr {
+  display: block;
+  margin-top: 0.8em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  color: black;
+  background-color: black;
+}
+.marty-info{
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: 187px;
+  width: 1530px;
+  height: 935px;
+  position:absolute;
+  border:1px solid black;
+  float: left;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  background-color: #D6D6D6;
+}
+.marty-top-albums {
+  margin-top: 50px;
+  margin-left: 560px;
+  width: 1200px;
+  height: 500px;
+  text-align: center;
+  position:absolute;
+  border:1px solid black;
+  outline-style: solid;
+  outline-color: #D3D3D3;
+  outline-width: 30px;
+}
+.wat-info-over{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.song-list{
+  text-align: left;
+}
+.song-list2{
+  text-align: left;
+  float: right;
+}
+.marty-top-albums  .albums {
+  width: 200px;
+  height: 200px;
+  padding: 15px;
+}
+img{
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+
+#img_div{
+position: relative;
+text-align: center;
+color: black;
+width: 200px;
+float: left;
+padding: 30px;
+padding-left: 51px;
+}
+.album-img-ding {
+  padding-left: 20px;
+}
+
+.text-over-album{
+  text-align: left;
+  padding-left: 50px;
+  font-family: 'PT Serif', serif;
+}
