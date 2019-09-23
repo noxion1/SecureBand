@@ -39,7 +39,7 @@ Fase 2: Realiseren van de opdracht (in sprints)
 
 Milestone	Status	Link
 
-B1-K1-W2 Product backlog	DONE	Backlog
+B1-K1-W2 Product backlog	DONE	https://github.com/noxion1/SecureBand/backlog.md
 
 B1-K1-W2 Sprint planning 1, 2 en 3	DONE	Trello / Trello Tips
 
