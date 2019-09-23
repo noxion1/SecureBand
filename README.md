@@ -31,6 +31,8 @@ B1-K1-W2 Sprint planning 1, 2 en 3	DONE	Trello / Trello Tips
 B1-K1-W3 Technisch Ontwerp	TODO	TO
 Fase 3: Testen en opleveren van het project
 Milestone	Status	Link
-B1-K3-W2 Link naar de live omgeving	TODO	http://25682.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/proj/myband/public/
+B1-K3-W2 Link naar de live omgeving	TODO	http://25607.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/proj/martyRobbins/main.php
 B1-K3-W2 Gebruikersdocumentatie / instructie	TODO	Gebruikers documentatie
 B1-K3-W3 Evaluatie	TODO	Evaluatie
+
+# Myband website werkt niet door onbekenden reden(en)
